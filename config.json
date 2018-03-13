@@ -1,0 +1,24 @@
+[
+  {
+    "nickname": "ircbot",
+    "server": "demandred.dyndns.org",
+    "token": "xoxb-212762082517-2m2IK9UZikXyot3DRj3DCGJk",
+    "oauth": "xoxp-212187614244-213194150678-212657886898-71e054506ef26d086c2d7103e979ba3a",
+    "imgur": "a5f80805965c7e3",
+    "webhookurl": "https://hooks.slack.com/services/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",
+    "channelMapping": {
+      "#general": "#shack"
+    },
+    "avatarUrl": "https://robohash.org/ircbot.png?size=48x48",
+    "commandCharacters": ["!", "@", ".", "/"],
+    "ircOptions": {
+      "floodProtection": true,
+      "debug": false,
+      "showErrors": false,
+      "port": 6667,
+      "nick": "slackbot",
+      "userName": "slackbot",
+      "password": ""
+    }
+  }
+]
